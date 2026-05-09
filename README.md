@@ -1,5 +1,12 @@
 # Data Mining: Segmentacja i Klasyfikacja Klientów
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/Computing-NumPy%20%2B%20SciPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%2B%20Seaborn-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+
 Projekt eksploracji danych realizujący zaawansowaną analizę profili klientów poczty z wykorzystaniem technik uczenia maszynowego.
 
 ## Opis
